@@ -1,0 +1,23 @@
+{
+  "skill_name": "md-writing",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "整理下 e:/BaiduSyncdisk/0.workspace/0-WorkingWithAI/Theory-OTFS/识别-md/OTFS a new generation of modulation addressing the challenges of 5G.md，其中有不通顺的地方，参考 e:/BaiduSyncdisk/0.workspace/0-WorkingWithAI/Theory-OTFS/原文-pdf/OTFS a new generation of modulation addressing the challenges of 5G.pdf",
+      "expected_output": "修正后的中文 MD 文档，逻辑清晰，无括号解释滥用",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "把 e:/BaiduSyncdisk/0.workspace/0-WorkingWithAI/Theory-OTFS/识别-md/OTFS a new generation of modulation addressing the challenges of 5G.md 翻译成中文，保存到新文件中",
+      "expected_output": "中文翻译的 MD 文件，保持原文档结构，术语准确",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "帮我写一份项目 README.md，内容包括：项目简介、功能特性、技术架构、快速开始指南",
+      "expected_output": "结构清晰的 README.md，使用多级标题，内容完整，无括号解释滥用",
+      "files": []
+    }
+  ]
+}
